@@ -1,6 +1,7 @@
 ## Sparsity-depth Tradeoff in Infinitely Wide Neural Networks
 
 The jupyter notebooks performs kernel regressions with the deep sparse NNGP kernels.
+Generates all plots in the main section and the supplementary section.
 
 All notebooks require chunGP.py to be imported.
 chunGP.py contains functions that load the classification datasets (i.e. MINST, Fashion-MNIST, CIFAR10, CIFAR10-Grayscale), which needs to be locally stored in the same folder.
