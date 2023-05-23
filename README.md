@@ -15,8 +15,8 @@ All the paths in the codes needs to be adjusted to a local environment.
 
 Following packages are required:
 
--numpy
--jax
--optax
--matplotlib
--scipy
+- numpy
+- jax
+- optax
+- matplotlib
+- scipy
